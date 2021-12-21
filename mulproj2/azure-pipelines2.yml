@@ -7,7 +7,7 @@ trigger:
     include:
     - 'mulproj2/*'
     exclude:
-    - azure-pipelines2.yml
+    - 'mulproj2/azure-pipelines2.yml'
 pool:
   vmImage: 'ubuntu-latest'
 variables:
