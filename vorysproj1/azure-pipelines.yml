@@ -21,7 +21,7 @@ variables:
 steps:
 - task: CacheBeta@0
   inputs:
-    key: $(Build.SourcesDirectory)/pom.xml
+    key: $(Build.SourcesDirectory)/vorysproj1/pom.xml
     path: $(MAVEN_CACHE_FOLDER)
   displayName: Cache Maven local repo
 
