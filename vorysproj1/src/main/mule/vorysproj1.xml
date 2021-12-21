@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:http="http://www.mulesoft.org/schema/mule/http" xmlns="http://www.mulesoft.org/schema/mule/core"
+	xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd">
+	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="59131e4a-c38b-4cd6-aa82-1951d4809ccb" >
+		<http:listener-connection host="0.0.0.0" port="8081" />
+	</http:listener-config>
+	<flow name="vorysproj1Flow" doc:id="b4241b45-9df3-405e-abd5-15fe1e3a8c6b" >
+		<http:listener doc:name="Listener" doc:id="86552717-02ed-4181-9e70-f502ff08640c" config-ref="HTTP_Listener_config" path="/data"/>
+		<set-payload value='#["Hello World"]' doc:name="Set Payload" doc:id="65d1964e-335e-4a95-b66f-7e72bf80d080" />
+	</flow>
+</mule>
