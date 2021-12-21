@@ -5,10 +5,7 @@ trigger:
     - main
   paths:
     include:
-    - 'VorysProject/vorysproj1/*'
-    exclude:
-    - azure-pipelines.yml
-    - pom.xml
+    - 'vorysproj1/*'
 pool:
   vmImage: 'ubuntu-latest'
 variables:
