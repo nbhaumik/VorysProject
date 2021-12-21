@@ -6,6 +6,8 @@ trigger:
   paths:
     include:
     - 'mulproj2/*'
+    exclude:
+    - azure-pipelines2.yml
 pool:
   vmImage: 'ubuntu-latest'
 variables:
