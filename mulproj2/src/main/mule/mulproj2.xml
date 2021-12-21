@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core"
+	xmlns:http="http://www.mulesoft.org/schema/mule/http" xmlns="http://www.mulesoft.org/schema/mule/core"
+	xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="
+http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/ee/core/current/mule-ee.xsd http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd">
+	<http:listener-config name="HTTP_Listener_cloudconfig" doc:name="HTTP Listener config" doc:id="da540f86-ce0f-4665-8fb2-00c04ebef8bf" >
+		<http:listener-connection host="0.0.0.0" port="8081" />
+	</http:listener-config>
+	<flow name="mulproj2Flow" doc:id="dd449589-06cb-4367-827a-3a96ca6f8d37" >
+		<http:listener doc:name="Listener" doc:id="9e1b1572-044c-40be-8f54-7efbcde7417c" config-ref="HTTP_Listener_cloudconfig" path="/data"/>
+		<set-variable value="#[attributes.queryParams.page]" doc:name="Set Variable" doc:id="1e731bfe-9e03-4930-bb47-24bbaa67c44f" variableName="curPage"/>
+		<choice doc:name="Choice" doc:id="08e2b25d-0746-4d32-bbcf-356c4c183eac" >
+			<when expression='#[vars.curPage == "2"]'>
+				<ee:transform doc:name="Transform Message" doc:id="351a110f-c066-495f-ad0b-577dc0e43695" >
+					<ee:message >
+						<ee:set-payload ><![CDATA[%dw 2.0
+output application/json
+---
+readUrl("classpath://data2.json")]]></ee:set-payload>
+					</ee:message>
+				</ee:transform>
+			</when>
+			<when expression='#[vars.curPage == "1"]'>
+				<ee:transform doc:name="Transform Message" doc:id="27b003bd-cc41-40e5-8b33-4fff3dd34a94" >
+					<ee:message >
+						<ee:set-payload ><![CDATA[%dw 2.0
+output application/json
+---
+readUrl("classpath://data1.json")]]></ee:set-payload>
+					</ee:message>
+				</ee:transform>
+			</when>
+			<otherwise>
+				<ee:transform doc:name="Transform Message" doc:id="6209e1da-a47e-4f03-ae4f-50218654678b" >
+					<ee:message >
+						<ee:set-payload ><![CDATA[%dw 2.0
+output application/json
+---
+{
+	"Error Message" : "Please provide proper page number"
+}]]></ee:set-payload>
+					</ee:message>
+				</ee:transform>
+				<set-variable value="400" doc:name="Setting Status Variable" doc:id="4bb11561-77b8-4b95-a2c3-6ec68630ec04" variableName="httpsStatus"/>
+			</otherwise>
+		</choice>
+	</flow>
+</mule>

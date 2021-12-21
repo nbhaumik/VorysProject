@@ -1,0 +1,1009 @@
+{
+  "meta_data": {
+    "total": 250,
+    "records_per_page": 125,
+    "total_pages": 2,
+    "current_page": 1
+  },
+  "data": [
+    {
+      "VorysProductID": 1,
+      "PrimaryID": "B01LXBZCTP",
+      "ProductTitle": "Claritin Allergy 24 Hr, 45 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 2,
+      "PrimaryID": "B01IAHZ612",
+      "ProductTitle": "Flintstones Chewable Tablets With Iron 60 Tablets ( Pack of 8)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 3,
+      "PrimaryID": "B08LJ99PDS",
+      "ProductTitle": "DaVinci Laboratories Liposomal Elderberry Liquid Extract with ElderCraft European Black Elderberry, Immune Support and Workout Recovery Supplement, Vegetarian, Gluten Free, Soy Free, 30mL Bottle",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 4,
+      "PrimaryID": "B000052WNS",
+      "ProductTitle": "Bayer Aspirin Pain Reliever/ Fever Reducer, 200-Count Coated Tablets",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 5,
+      "PrimaryID": "B004PUI0AI",
+      "ProductTitle": "Kohler K-13694-SN Traditional 12-Inch Round Rain Showerhead with Katalyst Spray, Vibrant Polished Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 6,
+      "PrimaryID": "B07B6QYRB3",
+      "ProductTitle": "Vetri-Science Laboratories GlycoFlex Plus Canine Joint Support Chews for Dogs, 120 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 7,
+      "PrimaryID": "B01IAILLFG",
+      "ProductTitle": "Coricidin HBP Antihistamine Cough & Cold Suppressant Tablets, 16 Tablets (Pack of 12)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 8,
+      "PrimaryID": "B00GS6SBGA",
+      "ProductTitle": "Flintstones Gummies Complete , 70 CT (Pack of 4)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 9,
+      "PrimaryID": "B000052WN6",
+      "ProductTitle": "Aleve Tablets with Naproxen Sodium, 220mg (NSAID) Pain Reliever/Fever Reducer, 100 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 10,
+      "PrimaryID": "B01IAI4CCA",
+      "ProductTitle": "Coricidin HBP Nighttime Multi-Symptom Cold Liquid Cherry 12 oz (Pack of 5)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 11,
+      "PrimaryID": "B00133ZZOE",
+      "ProductTitle": "Purist Towel Ring",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 12,
+      "PrimaryID": "B002EJANFC",
+      "ProductTitle": "KOHLER K-299-K-NA Conversion Kit",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 13,
+      "PrimaryID": "B07T3F8575",
+      "ProductTitle": "Little DaVinci Migrashield for Kids, Citrus, 30 Servings - Butterbur Extract Supplement for Children - Supports Children’s Migraine Headaches, Cranial Comfort and Blood Flow",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 14,
+      "PrimaryID": "B01IAIQEUS",
+      "ProductTitle": "Claritin 24 Hour Indoor & Outdoor Allergy Tablets - 5 ct, Pack of 4",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 15,
+      "PrimaryID": "B000052WN3",
+      "ProductTitle": "Aleve Caplets with Naproxen Sodium, 220mg (NSAID) Pain Reliever/Fever Reducer, 100 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 16,
+      "PrimaryID": "B000052X65",
+      "ProductTitle": "Afrin Severe Congestion Nasal Spray 0.5oz (15 ml)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 17,
+      "PrimaryID": "B073VPVMBV",
+      "ProductTitle": "One A Day VitaCraves Immunity Support Multivitamin Gummies*, Supplement with Vitamins A, Vitamin C, Vitamin D, B6, B12, Zinc & more, 70 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 18,
+      "PrimaryID": "B00F8DI1E6",
+      "ProductTitle": "Bayer Phillips Milk Of Magnesia Saline Laxative Original, Original 4 oz (Pack of 2)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 19,
+      "PrimaryID": "B0013CTII4",
+      "ProductTitle": "KOHLER K-9663-NA Twin Ell",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 20,
+      "PrimaryID": "B07ZWK79PP",
+      "ProductTitle": "Davinci Laboratories Vegan Protein Powder, 15 Servings - Gluten Free Plant Based Protein with Pea, Flax, Hemp and Probiotics (Creamy Vanilla)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 21,
+      "PrimaryID": "B01M2ADLML",
+      "ProductTitle": "Alka-Seltzer Ultra Strength Relief Chews Tropical Twist, 50 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 22,
+      "PrimaryID": "B01IAIPRVA",
+      "ProductTitle": "Claritin 24 Hour Non Drowsy Allergy Tablet, 70 Count (Pack of 2)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 23,
+      "PrimaryID": "B00EZWT244",
+      "ProductTitle": "Afrin No Drip Severe Congestion Pump Mist 15 mL (Pack of 6)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 24,
+      "PrimaryID": "B000052X69",
+      "ProductTitle": "Afrin Allergy Sinus Nasal Spray, Fast & Powerful Congestion Relief from Allergies, 0.50 Fl Oz, Pack of 50",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 25,
+      "PrimaryID": "B0752W7JLP",
+      "ProductTitle": "One A Day Women’s Formula Tablets - 60 ct, Pack of 3",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 26,
+      "PrimaryID": "B003LHC0K2",
+      "ProductTitle": "KOHLER 13695-BN Contemporary Square Rainhead with Katalyst Air-Induction Spray, 2.5 GPM, 8-Inch, Brushed Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 27,
+      "PrimaryID": "B0012C0Y4M",
+      "ProductTitle": "Kohler K-7124-PB Pop-Up Clicker Drain Without Overflow, Vibrant Polished Brass, 1.25",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 28,
+      "PrimaryID": "B01MY5FJW0",
+      "ProductTitle": "Miralax Twin Pack (2 Bottles x 34 Doses) by Miralax",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 29,
+      "PrimaryID": "B07SKLGJFG",
+      "ProductTitle": "Little DaVinci KiddOmega 3 Fish Oil Supplement for Kids, Cherry Orange, 40 Servings - Omega 3 Brain Development and Immune Support for Kids",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 30,
+      "PrimaryID": "B000052X6A",
+      "ProductTitle": "Afrin 12 Hour Decongestant Nasal Spray, Original - .5 fl oz",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 31,
+      "PrimaryID": "B07SLM8RHS",
+      "ProductTitle": "Little DaVinci Mighty Vite, Fruit Punch, 30 Servings - Sugar Free Multivitamin for Kids with B Vitamins and Probiotics",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 32,
+      "PrimaryID": "B003BIFGU2",
+      "ProductTitle": "KOHLER 7265-CP K-7265-CP, Polished Chrome, 1.5",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 33,
+      "PrimaryID": "B00HA8AM0S",
+      "ProductTitle": "Phillips’ Concentrated Milk of Magnesia Saline Laxative, Fresh Strawberry 8 oz ( Pack of 4)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 34,
+      "PrimaryID": "B000052WNZ",
+      "ProductTitle": "Bayer Aspirin Safety Coated 325 mg Caplets 100 Caplets",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 35,
+      "PrimaryID": "B01IAHZAAO",
+      "ProductTitle": "Claritin 24 Hour Indoor & Outdoor Allergy Tablets - 20 ct, Pack of 4",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 36,
+      "PrimaryID": "B01LYYHTTH",
+      "ProductTitle": "RID Lice Elimination Essentials Kit, Includes 4 Fluid Ounces Head Lice Killing Shampoo, 2 Fluid Ounces Lice and Egg Comb-Out Spray, and Patented RID Lice Comb",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 37,
+      "PrimaryID": "B01IAIMUME",
+      "ProductTitle": "Berocca Orange Flavor Vitamin Mineral Supplement Effervescent Tablets, 10 ea (Pack of 10)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 38,
+      "PrimaryID": "B08CZY9VSL",
+      "ProductTitle": "DaVinci Laboratories Zinc Lozenge, Lemon, 60 Lozenges - Immune Support, Brain Health, Throat Soothing Supplement",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 39,
+      "PrimaryID": "B00006ISF0",
+      "ProductTitle": "Bayer Aspirin Pain Reliever, Extra Strength Back & Body Pain, 50-Count Caplets",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 40,
+      "PrimaryID": "B0000534ZM",
+      "ProductTitle": "Afrin 12 Hour Nasal Decongestant Pump Mist, No Drip - .5 fl oz",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 41,
+      "PrimaryID": "B01IAIRD1W",
+      "ProductTitle": "A+D Zinc Oxide Diaper Rash Cream with Aloe 4 oz (Pack of 9)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 42,
+      "PrimaryID": "B0014T4LRE",
+      "ProductTitle": "KOHLER K-7147-AF-BV Clearflo 1-1/2-Inch Contoured Pop-Up Drain and Overflow, Vibrant Brushed Bronze",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 43,
+      "PrimaryID": "B00HV5MDM0",
+      "ProductTitle": "Bayer Citracal Calcium Citrate Plus D3 Maximum Coated Caplets, 280 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 44,
+      "PrimaryID": "B004Q009FQ",
+      "ProductTitle": "Kohler K-2883-96 Vitreous china undermount Round Bathroom Sink, 20.75 x 18 x 9.75 inches, Biscuit",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 45,
+      "PrimaryID": "B01IAI4V5S",
+      "ProductTitle": "MiraLAX Powder Packets 10 Each (Pack of 12)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 46,
+      "PrimaryID": "B00KIHF9TM",
+      "ProductTitle": "Aleve Tablets Easy Open Arthritis Cap 200 Tablets (Pack of 6)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 47,
+      "PrimaryID": "B07T4H851K",
+      "ProductTitle": "Little DaVinci Sync Up for Kids, Berry, 60 Servings - Promotes Positive Mood and Attention Span, Supports Healthy Social Interaction",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 48,
+      "PrimaryID": "B08LG8CVN7",
+      "ProductTitle": "DaVinci Laboratories Chewable Vitamin C-300 with Collagen, Cherry Flavor, 90 Chewable Tablets - Helps Support Immune System Function, Vegetarian, Sugar Free",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 49,
+      "PrimaryID": "B0741HK3BC",
+      "ProductTitle": "Citracal Calcium Citrate + Magnesium & Minerals Caplets - 120 ct, Pack of 2",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 50,
+      "PrimaryID": "B01M4RO10L",
+      "ProductTitle": "Mexsana Medicated Powder 11 oz by Mexsana",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 51,
+      "PrimaryID": "B07Y3YJYS1",
+      "ProductTitle": "Davinci Laboratories Nature’s Transition Dietary Supplement Support Healthy Hormone Balance During Menopause, 60 Capsules",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 52,
+      "PrimaryID": "B000052XQH",
+      "ProductTitle": "RID Home Lice, Bed Bug & Dust Mite Spray, Home Treatment Spray With Permethrin, Kills Lice and Lice Eggs on Mattresses, Furniture, Car Interiors, and Other Non-washable Items, Spray Can, 5 Ounces",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 53,
+      "PrimaryID": "B0014YGD9S",
+      "ProductTitle": "KOHLER K-7166-AF-G Clearflo 1-1/2-Inch Adjustable Pop-Up Drain, Brushed Chrome",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 54,
+      "PrimaryID": "B075FBQHS5",
+      "ProductTitle": "Alka-Seltzer Original Effervescent Tablets, 36 Count (Pack of 2)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 55,
+      "PrimaryID": "B000052WOY",
+      "ProductTitle": "Midol Complete, Menstrual Period Symptoms Relief Including Premenstrual Cramps, Pain, Headache, and Bloating, Caplets, 24 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 56,
+      "PrimaryID": "B002HQWGPM",
+      "ProductTitle": "KOHLER K-2035-1-0 Pinoir Wall-Mount Bathroom Sink with Single-Hole Faucet Drilling, White",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 57,
+      "PrimaryID": "B08G1ZT8C6",
+      "ProductTitle": "Little Davinci Immuni-Z with Elderberry for Kids, Lemon, 60 Lozenges - Immune Support Supplement with Vitamin D3, Black Elderberry and Zinc, Sugar Free",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 58,
+      "PrimaryID": "B0058DI18M",
+      "ProductTitle": "Nordic Naturals ProOmega Liquid, Lemon Flavor - 2840 mg Omega-3-8 oz - High Potency Fish Oil with EPA & DHA - Promotes Brain, Eye, Heart, & Immune Health - Non-GMO - 48 Servings",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 59,
+      "PrimaryID": "B06XG853VT",
+      "ProductTitle": "Kohler TS13135-3A-SN K-TS13135-3A-SN Pinstripe Pure Rite-Temp Valve Trim with Cross Handle Vibrant Polished Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 60,
+      "PrimaryID": "B001J26KDY",
+      "ProductTitle": "Baldwin Estate 4741.030.CD Square Beveled Edge Double GFCI Wall Plate in Polished Brass, 4.5\" x 4.5\"",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 61,
+      "PrimaryID": "B00IST4R4A",
+      "ProductTitle": "Sakura 58175 5-Piece Gelly Roll Blister Card Moonlight 06 Fine Point Gel Ink Pen Set, Assorted Dusk Colors",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 62,
+      "PrimaryID": "B00FOMH1N8",
+      "ProductTitle": "KOHLER T72771-9M-SN Artifacts Volume valve trim with swing lever handle, Less Valve, Vibrant Polished Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 63,
+      "PrimaryID": "B0068W94M4",
+      "ProductTitle": "Baldwin Reserve 9BR3530-020 Traditional Round Privacy Knob in Satin Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 64,
+      "PrimaryID": "B08B1XJG87",
+      "ProductTitle": "Nordic Naturals Omega-3 Cat, Unflavored - 304 mg Omega-3 Per One mL - 2 oz - Fish Oil for Cats with EPA & DHA - Promotes Heart, Skin, Coat, Joint, & Immune Health - Non-GMO",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 65,
+      "PrimaryID": "B077DRVZMH",
+      "ProductTitle": "Kwikset 92001-532 Delta Passage Hall/Closet Lever In Antique Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 66,
+      "PrimaryID": "B017KFYJ9A",
+      "ProductTitle": "Kwikset 91570-018 Lisbon Round Half-Dummy Lever in Venetian Bronze",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 67,
+      "PrimaryID": "B01M8HKHMO",
+      "ProductTitle": "KOHLER K-73144-CP Composed 24-Inch Double Bathroom Towel bar, Polished Chrome",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 68,
+      "PrimaryID": "B07B3YWJD9",
+      "ProductTitle": "Nordic Naturals Arctic Omega, Lemon Flavor - 690 mg Omega-3-180 Soft Gels - Fish Oil - EPA & DHA - Immune Support, Brain & Heart Health, Optimal Wellness - Non-GMO - 90 Servings",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 69,
+      "PrimaryID": "B01NH5877O",
+      "ProductTitle": "Sakura Pigma 50047 Micron Blister Card Ink Pen Set, Black/Sepia, 003/005 Black/Sepia 4CT",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 70,
+      "PrimaryID": "B007JX3QXO",
+      "ProductTitle": "Kohler K-373-S-2BZ Devonshire 4 7/16-Inch Non-Diverter Bath Spout with Slip-Fit Connection, Oil Rubbed Bronze",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 71,
+      "PrimaryID": "B07651YJQ1",
+      "ProductTitle": "KOHLER 1957-LA-0 Underscore(R) 60\" x 32\" Bath Apron, Integral Flange and Left-Hand Drain Alcove Bathtub, White",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 72,
+      "PrimaryID": "B01N4R2IB9",
+      "ProductTitle": "G.T. Luscombe Company, Inc. Accu-Gel Bible Highlighter Study Set (Set of 6) + Pigma Micron 01 Fine & 05 Medium Point Inductive Bible Study Pen Kit (Set of 8) Bundle | No Bleed Pigmented Ink | No Smearing or Fading | New Packaging |",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 73,
+      "PrimaryID": "B00D5Z5796",
+      "ProductTitle": "KOHLER K-45903-BN Hydrorail-H Bath and Shower Column, Vibrant Brushed Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 74,
+      "PrimaryID": "B00006JXU0",
+      "ProductTitle": "One A Day Women’s Multivitamin, Supplement with Vitamin A, Vitamin C, Vitamin D, Vitamin E and Zinc for Immune Health Support, B12, Biotin, Calcium & More, 200 count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 75,
+      "PrimaryID": "B01JJ0YYRQ",
+      "ProductTitle": "Kwikset - Kevo 99250-203 Kevo 2nd Gen Bluetooth Touch-to-Open Deadbolt Smart Lock featuring SmartKey Security, Venetian Bronze",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 76,
+      "PrimaryID": "B00WQ5YA0I",
+      "ProductTitle": "Annual Vehicle Inspection Report (3-Ply, Carbon Interleaf, Snap-Out Format, 8.5\" x 11.75\") & Label (2-Ply Vinyl, Mylar Laminate, 5\" x 4\") - 10-pk. - J. J. Keller & Associates",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 77,
+      "PrimaryID": "B01LBWDN40",
+      "ProductTitle": "Simplified Driver’s Vehicle Inspection Report 5-pk. - Book & Horizontal Format, 2-Ply Carbonless, 8.5\" x 5.5\", 31 Sets of Forms Per DVIR Book - Meet FMCSR Requirements - J. J. Keller & Associates",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 78,
+      "PrimaryID": "B01IAIQ1VU",
+      "ProductTitle": "CLARITIN 24-Hour Indoor & Outdoor Non-Drowsy Allergy Relief Tablets 30 ea (Pack of 8)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 79,
+      "PrimaryID": "B001J28KZA",
+      "ProductTitle": "Baldwin Estate 0458.102 Solid Brass Flush Pull in Oil Rubbed Bronze",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 80,
+      "PrimaryID": "B01M1EE8Z9",
+      "ProductTitle": "KOHLER K-99265-VS Artifacts Single-Hole Kitchen Sink Faucet with 13-1/2 In. Swing Spout, Two-Function Sidespray, and Victorian Spout Design, Vibrant Stainless",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 81,
+      "PrimaryID": "B000052YT3",
+      "ProductTitle": "OAD WOMENS 60S MYT 2DZ",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 82,
+      "PrimaryID": "B00BW0K7XC",
+      "ProductTitle": "KOHLER K-706014-D3-MX Levity Bypass Shower Door with Towel Bar and 3/8-Inch Frosted Glass in Matte Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 83,
+      "PrimaryID": "B07DW9HQSQ",
+      "ProductTitle": "Sakura Pocket Set Koi Watercolor Kit, 24 Colors Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 84,
+      "PrimaryID": "B01MZ78KOF",
+      "ProductTitle": "A+D Original Ointment 1.5oz by A&D",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 85,
+      "PrimaryID": "B0014XHDH0",
+      "ProductTitle": "KOHLER K-2824-FT Serif Undercounter Bathroom Sink, Basalt",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 86,
+      "PrimaryID": "B01IAHXSBC",
+      "ProductTitle": "Tinactin Antifungal Deodorant Powder Spray 4.60 oz (Pack of 2)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 87,
+      "PrimaryID": "B000052WNI",
+      "ProductTitle": "Alka-Seltzer-Extra Strength Tablets, Extra-Strength Antacid & Pain Relief, Original (24 Tablets)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 88,
+      "PrimaryID": "B07169YDQX",
+      "ProductTitle": "Nordic Naturals Pro Vitamin D3 Gummies, Wild Berry - 1000 IU Vitamin D3-120 Gummies - Great Taste - Healthy Bones, Mood & Immune System Function - Non-GMO - 120 Servings",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 89,
+      "PrimaryID": "B06XBR72CN",
+      "ProductTitle": "Kwikset Corporation 300DL 26D CP Kwikset 93001-879 Delta Bed and Bath Lever in Satin Chrome",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 90,
+      "PrimaryID": "B01M09F29W",
+      "ProductTitle": "Phillips’ Colon Health Probiotics Supplement, 15 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 91,
+      "PrimaryID": "B06XPSHP7R",
+      "ProductTitle": "Nordic Naturals Ultimate Omega 2X with Vitamin D3, Lemon Flavor - 2150 mg Omega-3 + 1000 IU D3-60 Soft Gels - Omega-3 Fish Oil - EPA & DHA - Brain, Heart, Joint, & Immune Health - 30 Servings",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 92,
+      "PrimaryID": "B01LBWE02E",
+      "ProductTitle": "Detailed Driver’s Vehicle Inspection Report 5-pk. - Book Format, 3-Ply Carbonless, Blue Ink, 5.5\" x 8.5\" - 31 Sets of Forms Per DVIR Book - Meet FMCSR Requirements - J. J. Keller & Associates",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 93,
+      "PrimaryID": "B000052XQK",
+      "ProductTitle": "SOLARCAINE ALOE GEL 8 FL OZ",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 94,
+      "PrimaryID": "B01IAHY88O",
+      "ProductTitle": "Bayer Back & Body Extra Strength Caplets 50 Caplets (Pack of 11)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 95,
+      "PrimaryID": "B00KOC73VS",
+      "ProductTitle": "RID Step 1 Lice Killing Shampoo",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 96,
+      "PrimaryID": "B003LRWE0I",
+      "ProductTitle": "Kohler K-4421-U-0 Cimarron 1.28 gpf Class Six Toilet Tank with Insuliner Tank Liner, White",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 97,
+      "PrimaryID": "B0083IS6A2",
+      "ProductTitle": "KOHLER K-11415-2BZ Bancroft Toilet Tissue Holder, Oil-Rubbed Bronze",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 98,
+      "PrimaryID": "B01K5XX4AO",
+      "ProductTitle": "Annual Vehicle Inspection Report (AVIR) Form – Snap-Out Format, 2-Ply, Carbonless, Stock, 8.5” x 11.75”, English - Qty: 10 Units – J. J. Keller & Associates",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 99,
+      "PrimaryID": "B00FOMH8VI",
+      "ProductTitle": "KOHLER K-72776-BN Artifacts Single-function 2.0 gpm handshower, Vibrant Brushed Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 100,
+      "PrimaryID": "B01LBWDI2C",
+      "ProductTitle": "Equipment Safety Inspection Report 10-pk. - Book Format, 2-Ply, Carbonless, 5.5\" x 8.5\", 31 Sets of Forms Per Book - Detailed Report Helps Maintain Safe Workplace Utility Vehicles - J. J. Keller",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 101,
+      "PrimaryID": "B01IAI1GAQ",
+      "ProductTitle": "Aspirin Regimen Bayer 81mg Chewable Tablets, #1 Doctor Recommended Aspirin Brand, Pain Reliever, Orange Flavor, 36 Count (Value Pack of 8)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 102,
+      "PrimaryID": "B06WW8RS3Z",
+      "ProductTitle": "Kohler TLS14422-3-BN K-TLS14422-3-BN Purist Rite-Temp Shower Valve Trim with Cross Handle, Less showerhead Vibrant Brushed Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 103,
+      "PrimaryID": "B000052WNY",
+      "ProductTitle": "Aspirin Regimen Bayer, 81mg Chewable Tablets, Pain Reliever, Cherry, 36 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 104,
+      "PrimaryID": "B00RM792MG",
+      "ProductTitle": "Nordic Naturals Vitamin D3 5000, Orange - 5000 IU Vitamin D3-120 Mini Soft Gels - Supports Healthy Bones, Mood & Immune System Function - Non-GMO - 120 Servings",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 105,
+      "PrimaryID": "B01MCSVXU7",
+      "ProductTitle": "KOHLER K-73145-TT Composed Bathroom Towel Arm, Titanium",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 106,
+      "PrimaryID": "B003H4DDGO",
+      "ProductTitle": "Baldwin Prestige Tobin Entry Lever featuring SmartKey in Lifetime Polished Brass",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 107,
+      "PrimaryID": "B078D692SY",
+      "ProductTitle": "Kwikset 94002-872 Tylo Keyed Entry Knob In Satin Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 108,
+      "PrimaryID": "B075VLPL1C",
+      "ProductTitle": "Sakura Gelly Roll Classic 05 (Fine Pt.) 6pk Pen, White",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 109,
+      "PrimaryID": "B01K5XWLH6",
+      "ProductTitle": "Annual Vehicle Inspection Report Form 50-pk. - Snap-Out Format, 2-Ply with Carbon Interleaf, 8.5\" x 11.75\" - Meet DOT AVIR Requirements Under 49 CFR 396.21 - J. J. Keller & Associates",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 110,
+      "PrimaryID": "B01IAIODL0",
+      "ProductTitle": "One-A-Day Vitacraves Regular Gummies, 150 ea (Pack of 3)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 111,
+      "PrimaryID": "B017UCNBXS",
+      "ProductTitle": "Kwikset Abbey Hallway/Closet Passage Door Knob with Microban Antimicrobial Protection in Polished Brass",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 112,
+      "PrimaryID": "B00117DVV6",
+      "ProductTitle": "Kwikset 985 Double Cylinder Deadbolt featuring SmartKey in Polished Brass",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 113,
+      "PrimaryID": "B002RFYURK",
+      "ProductTitle": "Kwikset 907 Powerbolt Electronic Deadbolt featuring SmartKey in Venetian Bronze",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 114,
+      "PrimaryID": "B01ELS4MZU",
+      "ProductTitle": "KOHLER K-72578-VNT Artifacts(Tm) Cabinet Knob, Vintage Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 115,
+      "PrimaryID": "B001308B34",
+      "ProductTitle": "KOHLER K-389-PB Devonshire 4-7/16-Inch Diverter Bath Spout, Vibrant Polished Brass",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 116,
+      "PrimaryID": "B01IAIT76G",
+      "ProductTitle": "One-A-Day Men’s 50+ Healthy Advantage Multivitamins 100 ea (Pack of 11)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 117,
+      "PrimaryID": "B07ZQQ2Z9G",
+      "ProductTitle": "Sakura Gelly Roll Moonlight 25 Pack, 06 Fine point, Bright Opaque Ink Gel Pens, Creamy Smooth Ink, Writes on Dark Paper",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 118,
+      "PrimaryID": "B01IAI4XQK",
+      "ProductTitle": "A+D Ointment Original 16 oz (Pack of 5)",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 119,
+      "PrimaryID": "B003BIFHBU",
+      "ProductTitle": "KOHLER 965-AK-CP K-965-AK-CP, One Size, Polished Chrome",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 120,
+      "PrimaryID": "B077Y9WTWK",
+      "ProductTitle": "Kwikset 92001-564 Tylo Passage Hall/Closet Knob In Polished Brass",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 121,
+      "PrimaryID": "B074NCH9MQ",
+      "ProductTitle": "One A Day Men’s Health Formula, 60 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 122,
+      "PrimaryID": "B000CEEASC",
+      "ProductTitle": "One A Day Men’s Health Formula, 250 Tablets",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 123,
+      "PrimaryID": "B000052WNX",
+      "ProductTitle": "Aspirin Regimen Bayer, 81mg Chewable Tablets, Pain Reliever, Orange, 36 Count",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 124,
+      "PrimaryID": "B00124ZE54",
+      "ProductTitle": "Kwikset 97200-794 Cameron Hallway/Closet Passage Door Knob with Microban Antimicrobial Protection in Satin Nickel",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    },
+    {
+      "VorysProductID": 125,
+      "PrimaryID": "B00FATBMWQ",
+      "ProductTitle": "KOHLER K-5827-0 Whitehaven Farmhouse Self-Trimming Undermount Single-Bowl Sink with Tall Apron, White",
+      "Marketplace": "Amazon",
+      "Region": "US",
+      "ToMonitor": true
+    }]
+}
