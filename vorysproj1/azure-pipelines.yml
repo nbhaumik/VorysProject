@@ -9,7 +9,6 @@ trigger:
     exclude:
     - azure-pipelines.yml
     - pom.xml
-    - settings.xml
 pool:
   vmImage: 'ubuntu-latest'
 variables:
