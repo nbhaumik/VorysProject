@@ -9,6 +9,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	</http:listener-config>
 	<flow name="vorysproj1Flow" doc:id="b4241b45-9df3-405e-abd5-15fe1e3a8c6b" >
 		<http:listener doc:name="Listener" doc:id="86552717-02ed-4181-9e70-f502ff08640c" config-ref="HTTP_Listener_config" path="/data"/>
-		<set-payload value='#["Hello World"]' doc:name="Set Payload" doc:id="65d1964e-335e-4a95-b66f-7e72bf80d080" />
+		<set-payload value='#["Hello World Mian"]' doc:name="Set Payload" doc:id="65d1964e-335e-4a95-b66f-7e72bf80d080" />
 	</flow>
 </mule>
