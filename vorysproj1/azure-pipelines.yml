@@ -7,7 +7,7 @@ trigger:
     include:
     - 'vorysproj1/*'
     exclude:
-    - azure-pipelines.yml
+    - 'vorysproj1/azure-pipelines.yml'
 pool:
   vmImage: 'ubuntu-latest'
 variables:
