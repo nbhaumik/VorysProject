@@ -6,6 +6,8 @@ trigger:
   paths:
     include:
     - 'vorysproj1/*'
+    exclude:
+    - azure-pipelines.yml
 pool:
   vmImage: 'ubuntu-latest'
 variables:
