@@ -9,7 +9,7 @@ trigger:
     exclude:
     - azure-pipelines.yml
     - pom.xml
-    - settings.xml
+    - settings2.xml
 pool:
   vmImage: 'ubuntu-latest'
 variables:
@@ -26,16 +26,16 @@ steps:
   displayName: Cache Maven local repo
 
 - task: DownloadSecureFile@1
-  name: settingsxml
+  name: settings2xml
   inputs:
-    secureFile: 'settings.xml'
+    secureFile: 'settings2.xml'
 
 - task: PowerShell@2
   inputs:
     targetType: 'inline'
     script: |
       New-Item -Type Directory -Force "${HOME}/.m2"
-      Copy-Item -Force "$(settingsxml.secureFilePath)" "${HOME}/.m2/settings.xml"
+      Copy-Item -Force "$(settings2xml.secureFilePath)" "${HOME}/.m2/settings2.xml"
       
 - task: Maven@3
   inputs:
