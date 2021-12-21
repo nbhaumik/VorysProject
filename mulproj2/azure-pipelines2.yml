@@ -5,11 +5,7 @@ trigger:
     - main
   paths:
     include:
-    - 'VorysProject/mulproj2/*'
-    exclude:
-    - azure-pipelines.yml
-    - pom.xml
-    - settings2.xml
+    - 'mulproj2/*'
 pool:
   vmImage: 'ubuntu-latest'
 variables:
