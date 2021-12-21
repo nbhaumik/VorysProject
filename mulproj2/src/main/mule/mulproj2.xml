@@ -40,7 +40,7 @@ readUrl("classpath://data1.json")]]></ee:set-payload>
 output application/json
 ---
 {
-	"Error Message" : "Please provide proper page number"
+	"Error Message" : "Please provide proper page numbers"
 }]]></ee:set-payload>
 					</ee:message>
 				</ee:transform>
